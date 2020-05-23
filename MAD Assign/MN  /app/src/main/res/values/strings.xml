@@ -1,0 +1,17 @@
+<resources>
+    <string name="application_name">Multi Notes</string>
+    <string name="application_version">Version 1.0</string>
+    <string name="GR_multi_note_json_file">GRMultiNotePad_.json</string>
+
+    <string name="no_file_available">No JSON Product File Present</string>
+    <string name="encoding">UTF-8</string>
+    <string name="GR_saved">Notes Saved!</string>
+
+    <string name="GR_menu_label_add_note">Add Note</string>
+    <string name="GR_menu_label_app_info">App Info</string>
+    <string name="GR_menu_label_save_note">Save Note</string>
+    <string name="GR_hint_note_title_add">Add Title</string>
+    <string name="GR_hint_note_text_add">Add Text</string>
+
+
+</resources>

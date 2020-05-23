@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_app_info"
+        android:icon="@drawable/round_help_outline_black_18dp"
+        android:title="@string/GR_menu_label_app_info"
+        android:tooltipText="@string/GR_menu_label_app_info"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/menu_add_note"
+        android:icon="@drawable/outline_add_circle_outline_black_18dp"
+        android:title="@string/GR_menu_label_add_note"
+        android:tooltipText="@string/GR_menu_label_add_note"
+        app:showAsAction="ifRoom" />
+</menu>

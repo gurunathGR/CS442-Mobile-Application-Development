@@ -1,0 +1,199 @@
+CURRENT STATS:
+System memory usage:
+  SOn /Norm: 1 samples:
+    Cached: 210MB min, 210MB avg, 210MB max
+    Free: 493MB min, 493MB avg, 493MB max
+    ZRam: 0.00 min, 0.00 avg, 0.00 max
+    Kernel: 28MB min, 28MB avg, 28MB max
+    Native: 60MB min, 60MB avg, 60MB max
+
+Per-Package Stats:
+  * com.example.christopher.recycler / u0a81 / v1:
+      * com.example.christopher.recycler / u0a81 / v1:
+               TOTAL: 36% (6.0MB-4.4MB-20MB/4.3MB-4.3MB-17MB over 48)
+                 Top: 36% (6.0MB-4.4MB-20MB/4.3MB-4.3MB-17MB over 48)
+            (Cached): 0.53%
+
+Summary:
+  * com.example.christopher.recycler / u0a81 / v1:
+           TOTAL: 36% (6.0MB-4.4MB-20MB/4.3MB-4.3MB-17MB over 48)
+             Top: 36% (6.0MB-4.4MB-20MB/4.3MB-4.3MB-17MB over 48)
+        (Cached): 0.53%
+
+Run time Stats:
+  SOn /Norm: +1h54m43s355ms (running)
+      TOTAL: +1h54m43s355ms
+
+Memory usage:
+  Kernel : 28MB (8 samples)
+  Native : 60MB (8 samples)
+  Persist: 115MB (24 samples)
+  Top    : 41MB (206 samples)
+  ImpFg  : 23MB (151 samples)
+  ImpBg  : 15MB (21 samples)
+  Service: 385KB (73 samples)
+  Receivr: 34KB (88 samples)
+  Home   : 19MB (27 samples)
+  LastAct: 422KB (18 samples)
+  CchEmty: 87MB (109 samples)
+  Cached : 210MB (8 samples)
+  Free   : 493MB (8 samples)
+  TOTAL  : 1.1GB
+  ServRst: 0.96KB (14 samples)
+
+          Start time: 2017-01-30 11:11:59
+  Total elapsed time: +1h54m46s464ms (partial) (swapped-out-pss) libart.so
+
+Available pages by page size:
+Zone   0       Unmovable      1     0     0     1     2     1     1     0     1     0     0
+Zone   0     Reclaimable      0     0     0     0     0     0     0     0     0     0     0
+Zone   0         Movable      1     3     2     1     2     2     2     0     1     0     0
+Zone   0         Reserve      0     0     0     0     0     0     0     0     0     0     1
+Zone   0             CMA      0     0     0     0     0     0     0     0     0     0     0
+Zone   0         Isolate      0     0     0     0     0     0     0     0     0     0     0
+Zone   0       Unmovable     13     1     0     1     0     1     0     0     4     3     0
+Zone   0     Reclaimable      1     1     0     0     2     1     1     0     1     1     0
+Zone   0         Movable      0     0     0     0     0     1     1     1     0     0   187
+Zone   0         Reserve      0     0     0     0     0     0     0     0     0     0     1
+Zone   0             CMA      0     1     1     1     0     1     0     0     0     0     3
+Zone   0         Isolate      0     0     0     0     0     0     0     0     0     0     0
+Zone   0       Unmovable      0     0     0     0     0     0     0     0     0     0     0
+Zone   0     Reclaimable      0     0     0     0     0     0     0     0     0     0     0
+Zone   0         Movable      0     0     0     0     0     0     0     0     0     0     0
+Zone   0         Reserve      0     1     0     1     0     0     1     0     0     0     0
+Zone   0             CMA      0     0     0     0     0     0     0     0     0     0     0
+Zone   0         Isolate      0     0     0     0     0     0     0     0     0     0     0
+
+AGGREGATED OVER LAST 24 HOURS:
+System memory usage:
+  SOn /Norm: 6 samples:
+    Cached: 210MB min, 249MB avg, 284MB max
+    Free: 321MB min, 403MB avg, 493MB max
+    ZRam: 0.00 min, 0.00 avg, 0.00 max
+    Kernel: 27MB min, 30MB avg, 33MB max
+    Native: 55MB min, 59MB avg, 66MB max
+
+Per-Package Stats:
+  * com.example.christopher.recycler / u0a81 / v1:
+      * com.example.christopher.recycler / u0a81 / v1:
+               TOTAL: 4.7% (6.0MB-4.4MB-20MB/4.3MB-4.3MB-17MB over 48)
+                 Top: 4.7% (6.0MB-4.4MB-20MB/4.3MB-4.3MB-17MB over 48)
+            (Cached): 0.07%
+
+Summary:
+  * com.example.christopher.recycler / u0a81 / v1:
+           TOTAL: 4.7% (6.0MB-4.4MB-20MB/4.3MB-4.3MB-17MB over 48)
+             Top: 4.7% (6.0MB-4.4MB-20MB/4.3MB-4.3MB-17MB over 48)
+        (Cached): 0.07%
+
+Run time Stats:
+  SOn /Norm: +14h36m50s28ms
+      TOTAL: +14h36m50s28ms
+
+Memory usage:
+  Kernel : 30MB (48 samples)
+  Native : 59MB (48 samples)
+  Persist: 106MB (170 samples)
+  Top    : 40MB (976 samples)
+  ImpFg  : 21MB (825 samples)
+  ImpBg  : 17MB (337 samples)
+  Service: 265KB (452 samples)
+  Receivr: 25KB (447 samples)
+  Home   : 24MB (175 samples)
+  LastAct: 34MB (320 samples)
+  CchAct : 252 (130 samples)
+  CchCAct: 3.6KB (43 samples)
+  CchEmty: 99MB (679 samples)
+  Cached : 249MB (48 samples)
+  Free   : 403MB (48 samples)
+  TOTAL  : 1.1GB
+  ServRst: 377 (137 samples)
+
+          Start time: 2017-01-23 09:17:46
+  Total elapsed time: +14h37m12s63ms (partial) (swapped-out-pss) libart.so
+
+Available pages by page size:
+Zone   0       Unmovable      1     0     0     1     2     1     1     0     1     0     0
+Zone   0     Reclaimable      0     0     0     0     0     0     0     0     0     0     0
+Zone   0         Movable      1     3     2     1     2     2     2     0     1     0     0
+Zone   0         Reserve      0     0     0     0     0     0     0     0     0     0     1
+Zone   0             CMA      0     0     0     0     0     0     0     0     0     0     0
+Zone   0         Isolate      0     0     0     0     0     0     0     0     0     0     0
+Zone   0       Unmovable     13     1     0     1     0     1     0     0     4     3     0
+Zone   0     Reclaimable      1     1     0     0     2     1     1     0     1     1     0
+Zone   0         Movable      0     0     0     0     0     1     1     1     0     0   187
+Zone   0         Reserve      0     0     0     0     0     0     0     0     0     0     1
+Zone   0             CMA      0     1     1     1     0     1     0     0     0     0     3
+Zone   0         Isolate      0     0     0     0     0     0     0     0     0     0     0
+Zone   0       Unmovable      0     0     0     0     0     0     0     0     0     0     0
+Zone   0     Reclaimable      0     0     0     0     0     0     0     0     0     0     0
+Zone   0         Movable      0     0     0     0     0     0     0     0     0     0     0
+Zone   0         Reserve      0     1     0     1     0     0     1     0     0     0     0
+Zone   0             CMA      0     0     0     0     0     0     0     0     0     0     0
+Zone   0         Isolate      0     0     0     0     0     0     0     0     0     0     0
+
+AGGREGATED OVER LAST 3 HOURS:
+System memory usage:
+  SOn /Norm: 1 samples:
+    Cached: 210MB min, 210MB avg, 210MB max
+    Free: 493MB min, 493MB avg, 493MB max
+    ZRam: 0.00 min, 0.00 avg, 0.00 max
+    Kernel: 28MB min, 28MB avg, 28MB max
+    Native: 60MB min, 60MB avg, 60MB max
+
+Per-Package Stats:
+  * com.example.christopher.recycler / u0a81 / v1:
+      * com.example.christopher.recycler / u0a81 / v1:
+               TOTAL: 36% (6.0MB-4.4MB-20MB/4.3MB-4.3MB-17MB over 48)
+                 Top: 36% (6.0MB-4.4MB-20MB/4.3MB-4.3MB-17MB over 48)
+            (Cached): 0.53%
+
+Summary:
+  * com.example.christopher.recycler / u0a81 / v1:
+           TOTAL: 36% (6.0MB-4.4MB-20MB/4.3MB-4.3MB-17MB over 48)
+             Top: 36% (6.0MB-4.4MB-20MB/4.3MB-4.3MB-17MB over 48)
+        (Cached): 0.53%
+
+Run time Stats:
+  SOn /Norm: +1h54m43s585ms
+      TOTAL: +1h54m43s585ms
+
+Memory usage:
+  Kernel : 28MB (8 samples)
+  Native : 60MB (8 samples)
+  Persist: 115MB (24 samples)
+  Top    : 41MB (206 samples)
+  ImpFg  : 23MB (151 samples)
+  ImpBg  : 15MB (21 samples)
+  Service: 385KB (73 samples)
+  Receivr: 34KB (88 samples)
+  Home   : 19MB (27 samples)
+  LastAct: 422KB (18 samples)
+  CchEmty: 87MB (109 samples)
+  Cached : 210MB (8 samples)
+  Free   : 493MB (8 samples)
+  TOTAL  : 1.1GB
+  ServRst: 0.96KB (14 samples)
+
+          Start time: 2017-01-30 11:11:59
+  Total elapsed time: +1h54m46s682ms (partial) (swapped-out-pss) libart.so
+
+Available pages by page size:
+Zone   0       Unmovable      1     0     0     1     2     1     1     0     1     0     0
+Zone   0     Reclaimable      0     0     0     0     0     0     0     0     0     0     0
+Zone   0         Movable      1     3     2     1     2     2     2     0     1     0     0
+Zone   0         Reserve      0     0     0     0     0     0     0     0     0     0     1
+Zone   0             CMA      0     0     0     0     0     0     0     0     0     0     0
+Zone   0         Isolate      0     0     0     0     0     0     0     0     0     0     0
+Zone   0       Unmovable     13     1     0     1     0     1     0     0     4     3     0
+Zone   0     Reclaimable      1     1     0     0     2     1     1     0     1     1     0
+Zone   0         Movable      0     0     0     0     0     1     1     1     0     0   187
+Zone   0         Reserve      0     0     0     0     0     0     0     0     0     0     1
+Zone   0             CMA      0     1     1     1     0     1     0     0     0     0     3
+Zone   0         Isolate      0     0     0     0     0     0     0     0     0     0     0
+Zone   0       Unmovable      0     0     0     0     0     0     0     0     0     0     0
+Zone   0     Reclaimable      0     0     0     0     0     0     0     0     0     0     0
+Zone   0         Movable      0     0     0     0     0     0     0     0     0     0     0
+Zone   0         Reserve      0     1     0     1     0     0     1     0     0     0     0
+Zone   0             CMA      0     0     0     0     0     0     0     0     0     0     0
+Zone   0         Isolate      0     0     0     0     0     0     0     0     0     0     0

@@ -1,0 +1,61 @@
+TASK com.example.christopher.recycler id=212
+  ACTIVITY com.example.christopher.recycler/.MainActivity 42ce4ab pid=27053
+    Local FragmentActivity f12c8aa State:
+      mCreated=truemResumed=true mStopped=false mReallyStopped=false
+      mLoadersStarted=true
+    FragmentManager misc state:
+      mHost=android.support.v4.app.FragmentActivity$HostCallbacks@70f4cf8
+      mContainer=android.support.v4.app.FragmentActivity$HostCallbacks@70f4cf8
+      mCurState=5 mStateSaved=false mDestroyed=false
+    View Hierarchy:
+      com.android.internal.policy.DecorView{ac785d1 V.E..... ... 0,0-768,1280}
+        android.widget.LinearLayout{25fd836 V.E..... ... 0,0-768,1184}
+          android.view.ViewStub{673b337 G.E..... ... 0,0-0,0 #10203ef android:id/action_mode_bar_stub}
+          android.widget.FrameLayout{36840a4 V.E..... ... 0,48-768,1184}
+            android.support.v7.widget.ActionBarOverlayLayout{9edae0d V.E..... ... 0,0-768,1136 #7f0b004d app:id/decor_content_parent}
+              android.support.v7.widget.ContentFrameLayout{4941c2 V.E..... ... 0,112-768,1136 #1020002 android:id/content}
+                android.support.constraint.ConstraintLayout{f464bd3 V.E..... ... 0,0-768,1024 #7f0b005e app:id/activity_main}
+                  android.support.v7.widget.RecyclerView{43ac310 VFED.... F.. 32,32-736,992 #7f0b005f app:id/recycler}
+                    android.widget.RelativeLayout{2d41e09 VFE...CL ... 0,-91-704,30}
+                      android.support.v7.widget.AppCompatTextView{96db80e V.ED.... ... 32,20-672,63 #7f0b0035 app:id/title}
+                      android.support.v7.widget.AppCompatTextView{a9fd22f V.ED.... ... 32,63-672,101 #7f0b0060 app:id/genre}
+                      android.support.v7.widget.AppCompatTextView{771003c V.ED.... ... 549,20-672,58 #7f0b0061 app:id/year}
+                    android.widget.RelativeLayout{39791c5 VFE...CL ... 0,30-704,151}
+                      android.support.v7.widget.AppCompatTextView{951471a V.ED.... ... 32,20-672,63 #7f0b0035 app:id/title}
+                      android.support.v7.widget.AppCompatTextView{361624b V.ED.... ... 32,63-672,101 #7f0b0060 app:id/genre}
+                      android.support.v7.widget.AppCompatTextView{d6be428 V.ED.... ... 549,20-672,58 #7f0b0061 app:id/year}
+                    android.widget.RelativeLayout{5648541 VFE...CL ... 0,151-704,272}
+                      android.support.v7.widget.AppCompatTextView{dacbae6 V.ED.... ... 32,20-672,63 #7f0b0035 app:id/title}
+                      android.support.v7.widget.AppCompatTextView{761d827 V.ED.... ... 32,63-672,101 #7f0b0060 app:id/genre}
+                      android.support.v7.widget.AppCompatTextView{9af1ad4 V.ED.... ... 549,20-672,58 #7f0b0061 app:id/year}
+                    android.widget.RelativeLayout{db3347d VFE...CL ... 0,272-704,393}
+                      android.support.v7.widget.AppCompatTextView{4f99f72 V.ED.... ... 32,20-672,63 #7f0b0035 app:id/title}
+                      android.support.v7.widget.AppCompatTextView{109cfc3 V.ED.... ... 32,63-672,101 #7f0b0060 app:id/genre}
+                      android.support.v7.widget.AppCompatTextView{24d1040 V.ED.... ... 549,20-672,58 #7f0b0061 app:id/year}
+                    android.widget.RelativeLayout{7439b79 VFE...CL ... 0,393-704,514}
+                      android.support.v7.widget.AppCompatTextView{9be40be V.ED.... ... 32,20-672,63 #7f0b0035 app:id/title}
+                      android.support.v7.widget.AppCompatTextView{eafa51f V.ED.... ... 32,63-672,101 #7f0b0060 app:id/genre}
+                      android.support.v7.widget.AppCompatTextView{a12f06c V.ED.... ... 549,20-672,58 #7f0b0061 app:id/year}
+                    android.widget.RelativeLayout{ed97635 VFE...CL ... 0,514-704,635}
+                      android.support.v7.widget.AppCompatTextView{699aaca V.ED.... ... 32,20-672,63 #7f0b0035 app:id/title}
+                      android.support.v7.widget.AppCompatTextView{3b3743b V.ED.... ... 32,63-672,101 #7f0b0060 app:id/genre}
+                      android.support.v7.widget.AppCompatTextView{174a758 V.ED.... ... 549,20-672,58 #7f0b0061 app:id/year}
+                    android.widget.RelativeLayout{fb840b1 VFE...CL ... 0,635-704,756}
+                      android.support.v7.widget.AppCompatTextView{f0fa996 V.ED.... ... 32,20-672,63 #7f0b0035 app:id/title}
+                      android.support.v7.widget.AppCompatTextView{f5b1917 V.ED.... ... 32,63-672,101 #7f0b0060 app:id/genre}
+                      android.support.v7.widget.AppCompatTextView{a38e104 V.ED.... ... 549,20-672,58 #7f0b0061 app:id/year}
+                    android.widget.RelativeLayout{bdf36ed VFE...CL ... 0,756-704,877}
+                      android.support.v7.widget.AppCompatTextView{914c922 V.ED.... ... 32,20-672,63 #7f0b0035 app:id/title}
+                      android.support.v7.widget.AppCompatTextView{56e2fb3 V.ED.... ... 32,63-672,101 #7f0b0060 app:id/genre}
+                      android.support.v7.widget.AppCompatTextView{9e50970 V.ED.... ... 549,20-672,58 #7f0b0061 app:id/year}
+                    android.widget.RelativeLayout{c0554e9 VFE...CL ... 0,877-704,998}
+                      android.support.v7.widget.AppCompatTextView{35a556e V.ED.... ... 32,20-672,63 #7f0b0035 app:id/title}
+                      android.support.v7.widget.AppCompatTextView{492140f V.ED.... ... 32,63-672,101 #7f0b0060 app:id/genre}
+                      android.support.v7.widget.AppCompatTextView{6e94c9c V.ED.... ... 549,20-672,58 #7f0b0061 app:id/year}
+              android.support.v7.widget.ActionBarContainer{35556a5 V.ED.... ... 0,0-768,112 #7f0b004e app:id/action_bar_container}
+                android.support.v7.widget.Toolbar{45a5a7a V.E..... ... 0,0-768,112 #7f0b004f app:id/action_bar}
+                  android.support.v7.widget.AppCompatTextView{665e22b V.ED.... ... 32,29-184,83}
+                  android.support.v7.widget.ActionMenuView{c8c9688 V.E..... ... 768,0-768,112}
+                android.support.v7.widget.ActionBarContextView{2e9b821 G.E..... ... 0,0-0,0 #7f0b0050 app:id/action_context_bar}
+        android.view.View{e23a446 V.ED.... ... 0,1184-768,1280 #1020030 android:id/navigationBarBackground}
+        android.view.View{55e7607 V.ED.... ... 0,0-768,48 #102002f android:id/statusBarBackground}

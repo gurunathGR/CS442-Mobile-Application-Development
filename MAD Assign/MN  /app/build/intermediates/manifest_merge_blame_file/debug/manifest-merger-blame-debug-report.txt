@@ -1,0 +1,56 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.multinotepad"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="26"
+8-->/Users/abhishekvandadi/Desktop/MN  /app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->/Users/abhishekvandadi/Desktop/MN  /app/src/main/AndroidManifest.xml
+10
+11    <application
+11-->/Users/abhishekvandadi/Desktop/MN  /app/src/main/AndroidManifest.xml:5:5-23:19
+12        android:allowBackup="true"
+12-->/Users/abhishekvandadi/Desktop/MN  /app/src/main/AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+13-->[com.android.support:support-compat:28.0.0] /Users/abhishekvandadi/.gradle/caches/transforms-2/files-2.1/dd1cf78f22bdd94f550130b281f27c97/support-compat-28.0.0/AndroidManifest.xml:22:18-91
+14        android:debuggable="true"
+15        android:icon="@mipmap/ic_launcher"
+15-->/Users/abhishekvandadi/Desktop/MN  /app/src/main/AndroidManifest.xml:7:9-43
+16        android:label="MULTI NOTES"
+16-->/Users/abhishekvandadi/Desktop/MN  /app/src/main/AndroidManifest.xml:8:9-36
+17        android:supportsRtl="true"
+17-->/Users/abhishekvandadi/Desktop/MN  /app/src/main/AndroidManifest.xml:9:9-35
+18        android:theme="@style/AppTheme" >
+18-->/Users/abhishekvandadi/Desktop/MN  /app/src/main/AndroidManifest.xml:10:9-40
+19        <activity android:name="com.example.MULTINOTES.Main2Activity" />
+19-->/Users/abhishekvandadi/Desktop/MN  /app/src/main/AndroidManifest.xml:11:9-60
+19-->/Users/abhishekvandadi/Desktop/MN  /app/src/main/AndroidManifest.xml:11:19-48
+20        <activity android:name="com.example.MULTINOTES.AboutActivity" />
+20-->/Users/abhishekvandadi/Desktop/MN  /app/src/main/AndroidManifest.xml:12:9-51
+20-->/Users/abhishekvandadi/Desktop/MN  /app/src/main/AndroidManifest.xml:12:19-48
+21        <activity android:name="com.example.MULTINOTES.MainActivity" >
+21-->/Users/abhishekvandadi/Desktop/MN  /app/src/main/AndroidManifest.xml:13:9-19:20
+21-->/Users/abhishekvandadi/Desktop/MN  /app/src/main/AndroidManifest.xml:13:19-47
+22            <intent-filter>
+22-->/Users/abhishekvandadi/Desktop/MN  /app/src/main/AndroidManifest.xml:14:13-18:29
+23                <action android:name="android.intent.action.MAIN" />
+23-->/Users/abhishekvandadi/Desktop/MN  /app/src/main/AndroidManifest.xml:15:17-69
+23-->/Users/abhishekvandadi/Desktop/MN  /app/src/main/AndroidManifest.xml:15:25-66
+24
+25                <category android:name="android.intent.category.LAUNCHER" />
+25-->/Users/abhishekvandadi/Desktop/MN  /app/src/main/AndroidManifest.xml:17:17-77
+25-->/Users/abhishekvandadi/Desktop/MN  /app/src/main/AndroidManifest.xml:17:27-74
+26            </intent-filter>
+27        </activity>
+28        <activity
+28-->/Users/abhishekvandadi/Desktop/MN  /app/src/main/AndroidManifest.xml:20:9-22:58
+29            android:name="com.example.MULTINOTES.EditActivity"
+29-->/Users/abhishekvandadi/Desktop/MN  /app/src/main/AndroidManifest.xml:21:13-41
+30            android:parentActivityName="com.example.MULTINOTES.MainActivity" />
+30-->/Users/abhishekvandadi/Desktop/MN  /app/src/main/AndroidManifest.xml:22:13-55
+31    </application>
+32
+33</manifest>

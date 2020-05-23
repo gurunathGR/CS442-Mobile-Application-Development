@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#4CAF50">
+
+    <EditText
+        android:id="@+id/GR_new_title_note"
+        android:layout_width="396dp"
+        android:layout_height="38dp"
+        android:layout_marginTop="6dp"
+        android:background="#e4f2e4"
+        android:ems="8"
+        android:hint="add_note_title"
+        android:inputType="textPersonName"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/GR_new_text_note"
+        android:layout_width="396dp"
+        android:layout_height="508dp"
+        android:layout_marginTop="6dp"
+        android:background="#e4f2e4"
+        android:ems="8"
+        android:hint="Add_Text_to_note"
+        android:inputType="textMultiLine|textPersonName"
+        android:scrollbars="vertical"
+        android:textAlignment="viewStart"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/GR_new_title_note" />
+</android.support.constraint.ConstraintLayout>

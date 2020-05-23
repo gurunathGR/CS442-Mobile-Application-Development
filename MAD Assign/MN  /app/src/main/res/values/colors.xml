@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="GR_colorPrimary">#204D2E</color>
+    <color name="GR_colorPrimaryDark">#6075BE</color>
+    <color name="GR_colorAccent">#FF4081</color>
+    <color name="GR_year">#999999</color>
+    <color name="GR_title">#222222</color>
+    <color name="GR_text_color">#090808</color>
+    <color name="GR_app_background">#0E8CF0</color>
+    <color name="GR_note_entries_background">#C0DBF3</color>
+</resources>
